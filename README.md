@@ -10,5 +10,8 @@ progress_bar is not recongized it should be connected to the activity_splash_scr
 this is the progress_bar and the id.
 ![activity_splash_screen xml](https://user-images.githubusercontent.com/21030885/100082520-af38d000-2e8b-11eb-826a-11db073d32eb.png)
 
-##build.gradle
+## build.gradle
+![build gradle1](https://user-images.githubusercontent.com/21030885/100084615-5454a800-2e8e-11eb-8ee7-4d4a4ccbb2a9.png)
+
+![build gradle2](https://user-images.githubusercontent.com/21030885/100084646-5d457980-2e8e-11eb-87f8-66157542fb8c.png)
 
