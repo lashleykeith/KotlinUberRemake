@@ -21,6 +21,9 @@ import io.reactivex.rxjava3.android.schedulers.AndroidSchedulers
 import io.reactivex.rxjava3.core.Completable
 import java.util.*
 import java.util.concurrent.TimeUnit
+import kotlinx.android.synthetic.main.activity_main.*
+import kotlinx.android.synthetic.main.activity_splash_screen.*
+
 
 class SplashScreenActivity : AppCompatActivity() {
 
@@ -202,3 +205,6 @@ class SplashScreenActivity : AppCompatActivity() {
 }
 
 //15:21
+
+// The tutorial video is here I completed it to the 3rd video.
+// https://www.youtube.com/watch?v=fL0_xQFDe3w&list=PLaoF-xhnnrRW4HZNwZZ6MS12aWn-m3nGd&index=3
